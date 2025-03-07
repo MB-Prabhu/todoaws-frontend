@@ -1,0 +1,10 @@
+.singletodocontainer{
+    width: 70%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:20px;
+    margin: 15px 0;
+    box-shadow: 2px 2px 5px #0a0a0a;
+}
